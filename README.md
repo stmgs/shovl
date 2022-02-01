@@ -17,15 +17,19 @@ The brainstorming of the app shows all the app ideas and ways to implement them 
 #UI- Wireframes
 
 1. Initial page
+
 ![](images/landing_page.png)
 
 2. Login
+
 ![](images/Login.png)
 
 3. Main page(Dashboard)
+
 ![](images/Mainactivity.png)
 
 4. Ad listing page
+
 ![](images/Ad_listing_page.png)
 
 
