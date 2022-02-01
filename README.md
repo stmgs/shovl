@@ -3,13 +3,13 @@ Shovl is a mobile application that provide snow clearing service. This app only 
 
 The brainstorming of the app shows all the app ideas and ways to implement them along with the use case and activity diagram.
 
-#Miro Board - Brainstorm Screen capture
+# Miro Board - Brainstorm Screen capture
 
 ![Miro Board - Brainstorm Screen capture](images/Shovl_Miro_Board_ss.png) 
 
 #Use Case Diagram
 
-![](images/Snow_clearing_use_case.jpeg)
+![] (images/Snow_clearing_use_case.jpeg)
 
 #Activity Diaram
 ![](images/activity_diagram_snow_clearing_service.jpeg)
