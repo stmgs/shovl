@@ -7,28 +7,28 @@ The brainstorming of the app shows all the app ideas and ways to implement them 
 
 ![Miro Board - Brainstorm Screen capture](images/Shovl_Miro_Board_ss.png) 
 
-#Use Case Diagram
+## Use Case Diagram
 
-![] (images/Snow_clearing_use_case.jpeg)
+![](images/Snow_clearing_use_case.jpeg)
 
-#Activity Diaram
+## Activity Diaram
 ![](images/activity_diagram_snow_clearing_service.jpeg)
 
-#UI- Wireframes
+## UI- Wireframes
 
-1. Initial page
+### 1. Initial page
 
 ![](images/landing_page.png)
 
-2. Login
+### 2. Login
 
 ![](images/Login.png)
 
-3. Main page(Dashboard)
+### 3. Main page(Dashboard)
 
 ![](images/Mainactivity.png)
 
-4. Ad listing page
+### 4. Ad listing page
 
 ![](images/Ad_listing_page.png)
 
